@@ -8,5 +8,6 @@ package com.example.javaproject.test;
 public class test1 {
     public static void main(String[] args) {
         System.out.println("this is 0512  分支");
+        System.out.println("this is 2025 06 27");
     }
 }
